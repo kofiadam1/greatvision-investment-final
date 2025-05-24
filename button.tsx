@@ -1,0 +1,1 @@
+export const Button = ({ children }) => <button className="p-2 border rounded">{children}</button>;
